@@ -1,0 +1,8 @@
+1. How to Run?
+    i.   UnZip file [$ unzip MSI_Impl.zip ]
+    ii.  Change the directory to Project folder [$ cd MSI_Impl ]
+    iii. Run this command:
+         $java -cp target/MSI-1.0-SNAPSHOT.jar MSIProtocol
+
+
+2. Optionally, you can also package and run the Project using MAVEN build tool.
